@@ -4,3 +4,7 @@ cglm
 glfw
 portaudio
 stb
+glfw3
+bin
+glad
+GL
